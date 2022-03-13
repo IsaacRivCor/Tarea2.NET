@@ -240,8 +240,26 @@ namespace ColeccionPeliculas
             formato = pedirValorString("Formato de la pelicula");
             num_estante = pedirValorInt("Numero del estante a guardar la pelicula");
             Pelicula nuevaPelicula = new Pelicula(nombre, productora, genero, anio, formato);
-            _estantes[num_estante - 1].lista_peliculas.Append(nuevaPelicula);
-            Console.WriteLine("Pelicula creada correctamente. Presiona 'Enter' para continuar...");
+            Estante? estante = _estantes.FirstOrDefault(e => e.numeroEstante == num_estante);
+            if (estante == null)
+            {
+                Console.WriteLine("Estante no encontrado");
+            }
+            else
+            {
+                if (estante.genero == genero && estante.formato == formato)
+                {
+                    estante.lista_peliculas.Add(nuevaPelicula);
+                    List<Pelicula> sorted = estante.lista_peliculas.OrderBy(p => p.nombre).ToList();
+                    estante.lista_peliculas = sorted;
+                    //estante.lista_peliculas.Sort();
+                }
+                else
+                {
+                    Console.WriteLine("La pelicula no se puede agregar al estante seleccionado");
+                }
+            }
+            Console.WriteLine("Pelicula agregada correctamente. Presiona 'Enter' para continuar...");
             Console.ReadLine();
             showMenuAdminPeliculas();
         }
@@ -322,6 +340,8 @@ namespace ColeccionPeliculas
             Estante estante5 = new Estante(5, "Accion", "vhs");
             _estantes.Add(estante5);
 
+            Pelicula pelicula6 = new Pelicula("Iron Man", "Marvel", "SyFy", 2008, "vhs");
+            estante1.lista_peliculas.Add(pelicula6);
             Pelicula pelicula1 = new Pelicula("Vengadores", "Marvel", "SyFy", 2010, "vhs");
             estante1.lista_peliculas.Add(pelicula1);
             Pelicula pelicula2 = new Pelicula("Y donde estan las rubias", "Paramount", "Drama", 2004, "DVD");
