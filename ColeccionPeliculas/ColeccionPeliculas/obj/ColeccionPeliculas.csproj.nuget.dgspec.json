@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ColeccionPeliculas\\ColeccionPeliculas.csproj": {}
+    "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ColeccionPeliculas\\ColeccionPeliculas\\ColeccionPeliculas.csproj": {}
   },
   "projects": {
-    "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ColeccionPeliculas\\ColeccionPeliculas.csproj": {
+    "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ColeccionPeliculas\\ColeccionPeliculas\\ColeccionPeliculas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ColeccionPeliculas\\ColeccionPeliculas.csproj",
+        "projectUniqueName": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ColeccionPeliculas\\ColeccionPeliculas\\ColeccionPeliculas.csproj",
         "projectName": "ColeccionPeliculas",
-        "projectPath": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ColeccionPeliculas\\ColeccionPeliculas.csproj",
+        "projectPath": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ColeccionPeliculas\\ColeccionPeliculas\\ColeccionPeliculas.csproj",
         "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
-        "outputPath": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ColeccionPeliculas\\obj\\",
+        "outputPath": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ColeccionPeliculas\\ColeccionPeliculas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaac\\AppData\\Roaming\\NuGet\\NuGet.Config",
