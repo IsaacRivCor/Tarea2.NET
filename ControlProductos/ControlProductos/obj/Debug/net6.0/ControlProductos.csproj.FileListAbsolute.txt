@@ -1,0 +1,15 @@
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\bin\Debug\net6.0\ControlProductos.exe
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\bin\Debug\net6.0\ControlProductos.deps.json
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\bin\Debug\net6.0\ControlProductos.runtimeconfig.json
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\bin\Debug\net6.0\ControlProductos.dll
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\bin\Debug\net6.0\ref\ControlProductos.dll
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\bin\Debug\net6.0\ControlProductos.pdb
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\obj\Debug\net6.0\ControlProductos.csproj.AssemblyReference.cache
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\obj\Debug\net6.0\ControlProductos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\obj\Debug\net6.0\ControlProductos.AssemblyInfoInputs.cache
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\obj\Debug\net6.0\ControlProductos.AssemblyInfo.cs
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\obj\Debug\net6.0\ControlProductos.csproj.CoreCompileInputs.cache
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\obj\Debug\net6.0\ControlProductos.dll
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\obj\Debug\net6.0\ref\ControlProductos.dll
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\obj\Debug\net6.0\ControlProductos.pdb
+D:\CuartoSemestre\programacionVisual\Tarea2\ControlProductos\ControlProductos\obj\Debug\net6.0\ControlProductos.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\Productos\\Productos.csproj": {}
+    "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ControlProductos\\ControlProductos\\ControlProductos.csproj": {}
   },
   "projects": {
-    "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\Productos\\Productos.csproj": {
+    "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ControlProductos\\ControlProductos\\ControlProductos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\Productos\\Productos.csproj",
-        "projectName": "Productos",
-        "projectPath": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\Productos\\Productos.csproj",
+        "projectUniqueName": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ControlProductos\\ControlProductos\\ControlProductos.csproj",
+        "projectName": "ControlProductos",
+        "projectPath": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ControlProductos\\ControlProductos\\ControlProductos.csproj",
         "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
-        "outputPath": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\Productos\\obj\\",
+        "outputPath": "D:\\CuartoSemestre\\programacionVisual\\Tarea2\\ControlProductos\\ControlProductos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaac\\AppData\\Roaming\\NuGet\\NuGet.Config",
